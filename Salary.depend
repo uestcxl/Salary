@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385286298 source:/home/lzc/.codeblocks/Salary/main.cpp
+	<iostream>
+	"header.h"
+
+1385289166 /home/lzc/.codeblocks/Salary/header.h
+	<iostream>
+	<string>
+
